@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@svgdotjs/svg.js": "^3.0.16",
+    "async-mutex": "^0.3.1"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.1",
+    "ts-loader": "^8.1.0",
+    "typescript": "^4.2.4",
+    "webpack": "^5.31.2",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "scripts": {
+    "serve": "webpack serve",
+    "build": "webpack"
+  }
+}
